@@ -1,25 +1,18 @@
-# i C. infinity Music Universe
+# i C. infinity Two Album Pack
 
-Static GitHub Pages site for the i C. infinity artist catalogue.
+Static GitHub Pages package site for the i C. infinity Two Album Pack paid download tier.
+
+## Package
+
+- Working price: $35
+- Scope: 2 albums
+- Checkout reference: https://auraofintelligence.github.io/strange-but-true/downloads.html#catalogue-products-title
+- Full catalogue reference: https://auraofintelligence.github.io/i-C-infinity-music-universe/
 
 ## What it contains
 
-- 8 album/archive pages
-- 92 generated song pages
-- 13 songs with lyrics imported in this pass
-- Infinity Engine notes for turning songs into comics, lyric videos, and vertical micro-dramas
-- Draft paid-download packaging notes in `data/download-packaging.json`
-
-## Rebuild
-
-Run:
-
-```powershell
-python tools/build_site.py
-```
-
-The generator reads the Protopian Gambit lyric source from Luke's local source folder and keeps local workshop file paths out of the public site data.
+This clone keeps the album and song catalogue available, but the home page and package guide are focused on the Two Album Pack offer.
 
 ## Notes
 
-The old one-page prototype is preserved as `legacy-content-engine.html`.
+This is a package-planning doorway, not the final automated checkout. Keep the direct support framing: buyers get organised digital files and Luke gets cash to keep building.
